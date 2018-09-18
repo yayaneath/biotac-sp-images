@@ -1,5 +1,9 @@
 # biotac-sp-images
 
+If you use this dataset in your work, please cite:
+
+Brayan S. Zapata-Impata, Pablo Gil, Fernando Torres. Non-Matrix Tactile Sensors: How Can Be Exploited Their Local Connectivity For Predicting Grasp Stability?. Presented at IEEE/RSJ IROS 2018 Workshop RoboTac: New Progress in Tactile Perception and Learning in Robotics. arXiv: https://arxiv.org/abs/1809.05551
+
 We have performed grasps using a Shadow Dexterous hand equipped with three BioTac SP tactile sensors in its index finger (ff), middle finger (mf) and thumb (th). The dataset stores 24 values for each of the tactile sensors, the grasped object and whether the object slipped or not from the hand. Two orientations have been considered: (1) the palm of tha hand point downwards and (2) the palm pointing to the side (thumb upwards). Pictures below show one example for each orientation.
 
 <img src="https://github.com/yayaneath/biotac-sp-images/blob/master/examples.png"/>
