@@ -1,4 +1,4 @@
-# biotac-sp-images
+# BioTacSP Stability Set (BTS3)
 
 If you use this dataset in your work, please cite:
 
