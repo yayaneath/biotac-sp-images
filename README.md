@@ -20,7 +20,7 @@ In total, we have used 41 objects for recording these datasets:
 
 # Citation
 ```
-@INPROCEEDINGS{BTS-DOS,
+@INPROCEEDINGS{BTS3,
   author = {Zapata-impata, Brayan S. and Gil, Pablo and Torres, Fernando},
   journal = {IEEE/RSJ IROS 2018 Workshop RoboTac: New Progress in Tactile Perception and Learning in Robotics},
   title = {{Non-Matrix Tactile Sensors: How Can Be Exploited Their Local Connectivity For Predicting Grasp Stability?}},
